@@ -1,0 +1,9 @@
+main.c:111:5:main	8	static
+main.c:134:5:Calc_FIR	32	static
+main.c:157:6:HAL_I2SEx_TxRxHalfCpltCallback	24	static
+main.c:181:6:HAL_I2SEx_TxRxCpltCallback	24	static
+main.c:206:6:SystemClock_Config	104	static
+main.c:257:13:MX_I2S2_Init	8	static
+main.c:289:13:MX_DMA_Init	16	static
+main.c:309:13:MX_GPIO_Init	56	static
+main.c:434:6:Error_Handler	4	static
